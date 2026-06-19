@@ -187,3 +187,24 @@ Pending future manual verification or external literary source enrichment.
 
 Priority:
 Low
+
+## Seevaga Chintamani
+
+### Missing Verse Numbers
+
+Source:
+TamilThagaval/aimperum_kaappiyangal-seevaga_chintamani
+
+Issues:
+- 2 poems do not contain verse numbers.
+
+Data Preserved:
+- Section titles preserved
+- Original poem text preserved
+- Poem order preserved through TamilVerse ID
+
+Resolution:
+Pending future manual verification or external literary source enrichment.
+
+Priority:
+Low
