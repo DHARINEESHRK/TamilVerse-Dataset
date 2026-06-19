@@ -48,3 +48,27 @@ Pending future manual verification or AI-assisted enrichment.
 
 Priority:
 Low
+## Acharakovai
+
+### Missing Moral Explanation
+
+Source:
+TamilThagaval/Pathinen_keezhkanakku-Acharakovai
+
+Affected Records:
+- 1 record missing karuthurai
+
+Issue:
+The original source dataset contains one poem without a moral explanation.
+
+Data Preserved:
+- Poem: Available
+- Topic: Available
+- Poem Type: Available
+- Tamil Explanation: Available
+
+Resolution:
+Pending future manual verification or AI-assisted enrichment.
+
+Priority:
+Low
