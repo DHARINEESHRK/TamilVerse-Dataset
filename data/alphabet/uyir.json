@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "letter": "அ",
+    "category": "uyir",
+    "name": "Akaram",
+    "transliteration": "a",
+    "ipa": "/ʌ/",
+    "difficulty": "beginner",
+    "examples": [
+      "அம்மா",
+      "அப்பா"
+    ],
+    "description": "The first short vowel (kuril) in the Tamil language."
+  },
+  {
+    "id": 2,
+    "letter": "ஆ",
+    "category": "uyir",
+    "name": "Aakaram",
+    "transliteration": "aa",
+    "ipa": "/ɑ:/",
+    "difficulty": "beginner",
+    "examples": [
+      "ஆடு",
+      "ஆசை"
+    ],
+    "description": "The second long vowel (nedil) in the Tamil language."
+  },
+  {
+    "id": 3,
+    "letter": "இ",
+    "category": "uyir",
+    "name": "Ikaram",
+    "transliteration": "i",
+    "ipa": "/i/",
+    "difficulty": "beginner",
+    "examples": [
+      "இலை",
+      "இனிப்பு"
+    ],
+    "description": "The third short vowel (kuril) in the Tamil language."
+  },
+  {
+    "id": 4,
+    "letter": "ஈ",
+    "category": "uyir",
+    "name": "Iikaram",
+    "transliteration": "ii",
+    "ipa": "/i:/",
+    "difficulty": "beginner",
+    "examples": [
+      "ஈட்டி",
+      "ஈரம்"
+    ],
+    "description": "The fourth long vowel (nedil) in the Tamil language."
+  },
+  {
+    "id": 5,
+    "letter": "உ",
+    "category": "uyir",
+    "name": "Ukaram",
+    "transliteration": "u",
+    "ipa": "/u/",
+    "difficulty": "beginner",
+    "examples": [
+      "உப்பு",
+      "உதடு"
+    ],
+    "description": "The fifth short vowel (kuril) in the Tamil language."
+  },
+  {
+    "id": 6,
+    "letter": "ஊ",
+    "category": "uyir",
+    "name": "Uukaram",
+    "transliteration": "uu",
+    "ipa": "/u:/",
+    "difficulty": "beginner",
+    "examples": [
+      "ஊஞ்சல்",
+      "ஊர்"
+    ],
+    "description": "The sixth long vowel (nedil) in the Tamil language."
+  },
+  {
+    "id": 7,
+    "letter": "எ",
+    "category": "uyir",
+    "name": "Ekaram",
+    "transliteration": "e",
+    "ipa": "/e/",
+    "difficulty": "beginner",
+    "examples": [
+      "எலி",
+      "எறும்பு"
+    ],
+    "description": "The seventh short vowel (kuril) in the Tamil language."
+  },
+  {
+    "id": 8,
+    "letter": "ஏ",
+    "category": "uyir",
+    "name": "Eekaram",
+    "transliteration": "ee",
+    "ipa": "/e:/",
+    "difficulty": "beginner",
+    "examples": [
+      "ஏணி",
+      "ஏழு"
+    ],
+    "description": "The eighth long vowel (nedil) in the Tamil language."
+  },
+  {
+    "id": 9,
+    "letter": "ஐ",
+    "category": "uyir",
+    "name": "Aikaram",
+    "transliteration": "ai",
+    "ipa": "/aɪ/",
+    "difficulty": "beginner",
+    "examples": [
+      "ஐந்து",
+      "ஐயம்"
+    ],
+    "description": "The ninth diphthong vowel in the Tamil language."
+  },
+  {
+    "id": 10,
+    "letter": "ஒ",
+    "category": "uyir",
+    "name": "Okaram",
+    "transliteration": "o",
+    "ipa": "/o/",
+    "difficulty": "beginner",
+    "examples": [
+      "ஒட்டகம்",
+      "ஒன்று"
+    ],
+    "description": "The tenth short vowel (kuril) in the Tamil language."
+  },
+  {
+    "id": 11,
+    "letter": "ஓ",
+    "category": "uyir",
+    "name": "Ookaram",
+    "transliteration": "oo",
+    "ipa": "/o:/",
+    "difficulty": "beginner",
+    "examples": [
+      "ஓடம்",
+      "ஓநாய்"
+    ],
+    "description": "The eleventh long vowel (nedil) in the Tamil language."
+  },
+  {
+    "id": 12,
+    "letter": "ஔ",
+    "category": "uyir",
+    "name": "Aukaram",
+    "transliteration": "au",
+    "ipa": "/aʊ/",
+    "difficulty": "beginner",
+    "examples": [
+      "ஔவையார்",
+      "ஔடதம்"
+    ],
+    "description": "The twelfth diphthong vowel in the Tamil language."
+  }
+]

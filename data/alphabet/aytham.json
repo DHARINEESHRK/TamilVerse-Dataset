@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "letter": "ஃ",
+        "category": "aytham",
+        "name": "Aytham",
+        "transliteration": "ah",
+        "ipa": "x",
+        "difficulty": "advanced",
+        "examples": [],
+        "description": "Special character in the Tamil script used in certain phonetic combinations."
+    }
+]

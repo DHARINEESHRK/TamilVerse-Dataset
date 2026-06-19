@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "letter": "க்",
+    "category": "mei",
+    "name": "ik",
+    "transliteration": "k",
+    "ipa": "/k/",
+    "difficulty": "beginner",
+    "examples": [
+      "சக்கரம்",
+      "கொக்கு"
+    ],
+    "description": "A voiceless velar plosive consonant (vallinam) in Tamil."
+  },
+  {
+    "id": 2,
+    "letter": "ங்",
+    "category": "mei",
+    "name": "ing",
+    "transliteration": "ng",
+    "ipa": "/ŋ/",
+    "difficulty": "beginner",
+    "examples": [
+      "சங்கு",
+      "சிங்கம்"
+    ],
+    "description": "A velar nasal consonant (mellinam) in Tamil."
+  },
+  {
+    "id": 3,
+    "letter": "ச்",
+    "category": "mei",
+    "name": "ich",
+    "transliteration": "ch",
+    "ipa": "/t͡ʃ/",
+    "difficulty": "beginner",
+    "examples": [
+      "பச்சை",
+      "தச்சன்"
+    ],
+    "description": "A voiceless palatal affricate consonant (vallinam) in Tamil."
+  },
+  {
+    "id": 4,
+    "letter": "ஞ்",
+    "category": "mei",
+    "name": "inj",
+    "transliteration": "nj",
+    "ipa": "/ɲ/",
+    "difficulty": "beginner",
+    "examples": [
+      "மஞ்சள்",
+      "ஊஞ்சல்"
+    ],
+    "description": "A palatal nasal consonant (mellinam) in Tamil."
+  },
+  {
+    "id": 5,
+    "letter": "ட்",
+    "category": "mei",
+    "name": "it",
+    "transliteration": "t",
+    "ipa": "/ʈ/",
+    "difficulty": "beginner",
+    "examples": [
+      "பட்டம்",
+      "சட்டை"
+    ],
+    "description": "A voiceless retroflex plosive consonant (vallinam) in Tamil."
+  },
+  {
+    "id": 6,
+    "letter": "ண்",
+    "category": "mei",
+    "name": "iN",
+    "transliteration": "N",
+    "ipa": "/ɳ/",
+    "difficulty": "beginner",
+    "examples": [
+      "கண்",
+      "வண்டு"
+    ],
+    "description": "A retroflex nasal consonant (mellinam) in Tamil."
+  },
+  {
+    "id": 7,
+    "letter": "த்",
+    "category": "mei",
+    "name": "ith",
+    "transliteration": "th",
+    "ipa": "/t̪/",
+    "difficulty": "beginner",
+    "examples": [
+      "வாத்து",
+      "நத்தை"
+    ],
+    "description": "A voiceless dental plosive consonant (vallinam) in Tamil."
+  },
+  {
+    "id": 8,
+    "letter": "ந்",
+    "category": "mei",
+    "name": "inth",
+    "transliteration": "n",
+    "ipa": "/n̪/",
+    "difficulty": "beginner",
+    "examples": [
+      "பந்து",
+      "தந்தை"
+    ],
+    "description": "A dental nasal consonant (mellinam) in Tamil."
+  },
+  {
+    "id": 9,
+    "letter": "ப்",
+    "category": "mei",
+    "name": "ip",
+    "transliteration": "p",
+    "ipa": "/p/",
+    "difficulty": "beginner",
+    "examples": [
+      "கப்பல்",
+      "சீப்பு"
+    ],
+    "description": "A voiceless bilabial plosive consonant (vallinam) in Tamil."
+  },
+  {
+    "id": 10,
+    "letter": "ம்",
+    "category": "mei",
+    "name": "im",
+    "transliteration": "m",
+    "ipa": "/m/",
+    "difficulty": "beginner",
+    "examples": [
+      "மரம்",
+      "காகம்"
+    ],
+    "description": "A bilabial nasal consonant (mellinam) in Tamil."
+  },
+  {
+    "id": 11,
+    "letter": "ய்",
+    "category": "mei",
+    "name": "iy",
+    "transliteration": "y",
+    "ipa": "/j/",
+    "difficulty": "beginner",
+    "examples": [
+      "நாய்",
+      "பாய்"
+    ],
+    "description": "A palatal approximant consonant (idaiyinam) in Tamil."
+  },
+  {
+    "id": 12,
+    "letter": "ர்",
+    "category": "mei",
+    "name": "ir",
+    "transliteration": "r",
+    "ipa": "/ɾ/",
+    "difficulty": "beginner",
+    "examples": [
+      "தேர்",
+      "வேர்"
+    ],
+    "description": "An alveolar tap consonant (idaiyinam) in Tamil."
+  },
+  {
+    "id": 13,
+    "letter": "ல்",
+    "category": "mei",
+    "name": "il",
+    "transliteration": "l",
+    "ipa": "/l/",
+    "difficulty": "beginner",
+    "examples": [
+      "கல்",
+      "பல்"
+    ],
+    "description": "An alveolar lateral approximant consonant (idaiyinam) in Tamil."
+  },
+  {
+    "id": 14,
+    "letter": "வ்",
+    "category": "mei",
+    "name": "iv",
+    "transliteration": "v",
+    "ipa": "/ʋ/",
+    "difficulty": "beginner",
+    "examples": [
+      "செவ்வகம்",
+      "அவ்வை"
+    ],
+    "description": "A labiodental approximant consonant (idaiyinam) in Tamil."
+  },
+  {
+    "id": 15,
+    "letter": "ழ்",
+    "category": "mei",
+    "name": "izh",
+    "transliteration": "zh",
+    "ipa": "/ɻ/",
+    "difficulty": "beginner",
+    "examples": [
+      "தமிழ்",
+      "யாழ்"
+    ],
+    "description": "A retroflex approximant consonant (idaiyinam) unique to Tamil and related languages."
+  },
+  {
+    "id": 16,
+    "letter": "ள்",
+    "category": "mei",
+    "name": "iL",
+    "transliteration": "L",
+    "ipa": "/ɭ/",
+    "difficulty": "beginner",
+    "examples": [
+      "வாள்",
+      "முள்"
+    ],
+    "description": "A retroflex lateral approximant consonant (idaiyinam) in Tamil."
+  },
+  {
+    "id": 17,
+    "letter": "ற்",
+    "category": "mei",
+    "name": "iR",
+    "transliteration": "R",
+    "ipa": "/r/",
+    "difficulty": "beginner",
+    "examples": [
+      "காற்று",
+      "நாற்காலி"
+    ],
+    "description": "An alveolar trill consonant (vallinam) in Tamil."
+  },
+  {
+    "id": 18,
+    "letter": "ன்",
+    "category": "mei",
+    "name": "in",
+    "transliteration": "n",
+    "ipa": "/n/",
+    "difficulty": "beginner",
+    "examples": [
+      "மீன்",
+      "மான்"
+    ],
+    "description": "An alveolar nasal consonant (mellinam) in Tamil."
+  }
+]
