@@ -72,3 +72,26 @@ Pending future manual verification or AI-assisted enrichment.
 
 Priority:
 Low
+
+## Sirupanchamoolam
+
+### Missing Data in Original Source
+
+Source:
+TamilThagaval/pathinen_keezhkanakku-sirupanchamoolam
+
+Issues:
+- 1 record missing original verse
+- 1 record missing Tamil explanation
+- 11 records missing moral explanation (karuthurai)
+
+Data Preserved:
+- Original dataset structure maintained
+- Available verses and explanations preserved
+- Missing fields kept empty for future AI/manual enrichment
+
+Resolution:
+Pending future enrichment phase.
+
+Priority:
+Low
