@@ -164,3 +164,26 @@ Dataset quality:
 
 Status:
 Production-ready with minor low-priority enrichment requirements.
+
+
+## Silappadhikaram
+
+### Missing Poem Numbers
+
+Source:
+TamilThagaval/aimperum_kaappiyangal-silappadhikaram
+
+Issues:
+- 43 poems do not contain poem numbers.
+
+Data Preserved:
+- Kaandam preserved
+- Kaathai preserved
+- Original poem text preserved
+- Poem order preserved through TamilVerse ID
+
+Resolution:
+Pending future manual verification or external literary source enrichment.
+
+Priority:
+Low
