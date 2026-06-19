@@ -1,0 +1,23 @@
+# TamilVerse Dataset Known Issues
+
+## Naaladiyar
+
+### Record ID: 272
+
+Issue:
+Missing original poem text.
+
+Source:
+TamilThagaval/Pathinenkeezhkanakku-Naaladiyar
+
+Available Data:
+- Topic: நாலடியார் - 27.நன்றியில் செல்வம்
+- Explanation: Available
+- Paal: பொருட்பால்
+- Iyal: இன்பவியல்
+
+Status:
+Pending manual verification or external source enrichment.
+
+Priority:
+Low
