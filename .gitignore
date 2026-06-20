@@ -48,6 +48,10 @@ dist/
 .pytest_cache/
 .coverage
 
+# Test runner files
+run_tests.py
+run_tests.bat
+
 
 # Large generated files (uncomment if needed)
 # data/generated/
