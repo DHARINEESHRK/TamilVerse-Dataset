@@ -1,37 +1,34 @@
-# TamilVerse Dataset
+# TamilVerse v3.0
 
 A comprehensive open-source Tamil language dataset designed for NLP, AI, educational applications, and Tamil language preservation.
 
-## Project Vision
-
-TamilVerse aims to create a structured, high-quality, machine-readable collection of Tamil literary and language resources with automated ETL pipelines, validation tests, and future AI enrichment.
-
 ---
 
-# Current Dataset Statistics
-
-## Total Verified Records
+## Current Dataset Statistics
 
 ```
-Tamil Alphabet        : 247
-Classical Literature  : 5,122
------------------------------
-Total Records         : 5,369
+Tamil Alphabet          : 247
+Classical Literature    : 5,122
+Tamil Vocabulary        : 1,500
+--------------------------------
+Total TamilVerse        : 6,869 Records
 ```
+
+---
 
 ## Automated Testing Status
 
 ```
-Total Test Suites : 19
-Passed            : 19
-Failed            : 0
+Total Test Suites       : 20
+Passed                  : 20
+Failed                  : 0
 ```
 
 ---
 
-# Dataset Collections
+## Dataset Collections
 
-## Tamil Alphabet (247)
+### Tamil Alphabet (247)
 
 - Uyir Ezhuthukkal (12)
 - Mei Ezhuthukkal (18)
@@ -40,26 +37,19 @@ Failed            : 0
 
 ---
 
-# Classical Literature (5,122)
+### Classical Literature (5,122)
 
-## Thirukkural
-
+#### Thirukkural
 - 1,330 Kurals
 - 133 Chapters
 
----
-
-## Avvaiyar Literature
-
+#### Avvaiyar Literature
 - Aathichudi (109)
 - Konraiventhan (92)
 - Nalvazhi (41)
 - Moodurai (31)
 
----
-
-## Pathinen Keezhkanakku
-
+#### Pathinen Keezhkanakku
 - Naaladiyar (402)
 - Pazhamozhi Naanooru (402)
 - Elathi (82)
@@ -70,10 +60,7 @@ Failed            : 0
 - Iniyavai Narpadhu (41)
 - Inna Narpadhu (41)
 
----
-
-## Aimperum Kaappiyangal
-
+#### Aimperum Kaappiyangal
 - Kundalakesi (24)
 - Silappadhikaram (1,047)
 - Manimekalai (493)
@@ -82,161 +69,140 @@ Failed            : 0
 
 ---
 
-# Project Structure
+### Tamil Vocabulary (1,500)
 
-```
-TamilVerse-Dataset/
-│
-├── data/
-│   ├── raw/                  # Original source datasets
-│   ├── literature/           # Transformed literature datasets
-│   └── alphabet/             # Tamil alphabet datasets
-│
-├── scripts/
-│   ├── download_*.py         # Dataset download scripts
-│   └── transform_*.py        # ETL transformation scripts
-│
-├── tests/
-│   └── test_*.py             # Automated validation tests
-│
-├── docs/
-│   ├── *_source.md           # Dataset source documentation
-│   └── data_issues.md        # Known source issues
-│
-├── requirements.txt
-└── README.md
-```
+The Tamil Vocabulary dataset contains commonly used words collected from various real-life categories.
+
+Included fields:
+
+- English words
+- Tamil words
+- Transliteration
+- Category classification
+- Difficulty levels
 
 ---
 
-# ETL Workflow
+## Data Quality & Validation
 
-Every dataset follows a consistent pipeline:
+The TamilVerse project maintains a complete ETL and validation workflow.
 
-```
-Download Source
-        ↓
-Inspect Raw Schema
-        ↓
-Transform Dataset
-        ↓
-Validate Data Quality
-        ↓
-Document Source Issues
-        ↓
-Version Control with Git
-```
+Validation includes:
 
----
+- Record count verification
+- Unique ID checking
+- Schema validation
+- Missing data detection
+- Dataset consistency checks
 
-# Data Quality
+Current Quality Status:
 
-## Validation Checks
-
-Automated tests verify:
-
-- Record counts
-- Unique IDs
-- Dataset schemas
-- Missing fields
-- Structural consistency
-
-## Current Quality Status
-
-- 5,369 records validated
-- 19 automated test suites passed
+- 6,869 verified records
+- 20/20 automated tests passed
 - 0 transformation errors
-- 100% documented source issues
+- 100% known source issues documented
 
 ---
 
-# Known Source Issues
+## Known Dataset Issues
 
-Some source datasets contain missing fields.
-
-Examples:
-
-- Missing original poems
-- Missing explanations
-- Missing moral explanations
-- Missing poem titles
-- Missing verse numbers
-
-All known issues are documented in:
+All missing or incomplete source data is documented in:
 
 ```
 docs/data_issues.md
 ```
 
+Current known issues include:
+
+- Missing original poems from source datasets
+- Missing explanations
+- Missing moral explanations
+- Missing poem titles
+- Missing verse numbers
+- Missing vocabulary transliteration
+
+All missing fields originate from the original sources and are preserved for future manual verification or AI-assisted enrichment.
+
 ---
 
-# Technology Stack
+## TamilVerse v3.0 Status
+
+```
+✓ Tamil Alphabet Completed
+
+✓ Classical Literature Completed
+
+✓ Tamil Vocabulary Completed
+
+✓ Automated ETL Pipeline Completed
+
+✓ Automated Validation Suite Completed
+
+✓ Data Issue Tracking Completed
+
+Total Records:
+6,869 Verified Tamil Records
+```
+
+---
+
+## Technology Stack
 
 - Python
 - JSON
+- Pandas
+- OpenPyXL
 - Hugging Face Datasets
 - Automated ETL Pipelines
 - Git & GitHub
 
 ---
 
-# Future Roadmap
+## Future Roadmap
 
-## TamilVerse v3.0
+### TamilVerse v3.1
 
-Planned datasets:
+Upcoming datasets:
 
-- Tamil vocabulary words
-- Daily-use words
-- Synonyms and antonyms
-- Tamil paragraphs
-- Reading comprehension passages
-- Daily conversations
-- Grammar resources
+- Tamil Reading Paragraphs
+- Reading Comprehension Questions
+- Daily Conversations
+- Tamil Grammar Resources
+- Stories and Essays
 
-## AI Enrichment
+---
+
+### AI Enrichment Pipeline
 
 Future enhancements:
 
-- English translations
-- Transliteration
+- English translations for literature
+- Tamil explanations
+- Transliteration generation
 - Keyword extraction
-- Difficulty classification
+- Difficulty analysis
 - Quiz generation
 
 ---
 
-# Contribution
+## Contribution
 
 Contributions are welcome.
 
 You can contribute by:
 
-- Fixing missing source data
-- Adding new Tamil resources
+- Adding new Tamil datasets
 - Improving ETL pipelines
-- Improving validation tests
-- Adding AI enrichment pipelines
+- Creating validation tests
+- Fixing source data issues
+- Building AI enrichment tools
 
 ---
 
-# License
+## License
 
-This project is open-source and intended for educational and research purposes.
-
----
-
-# TamilVerse v2.4 Status
-
-```
-Dataset Completion        : Classical Foundation Completed
-Total Records             : 5,369
-Automated Tests           : 19/19 Passed
-Transformation Errors     : 0
-Source Issue Tracking     : Complete
-Status                    : Production Ready
-```
+Open-source project for educational, linguistic, and AI research purposes.
 
 ---
 
-Preserving Tamil literature for the AI era.
+**Preserving Tamil knowledge for the AI era.**

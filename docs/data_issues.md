@@ -238,3 +238,51 @@ Total Verified Records:
 The TamilVerse v2.4 classical dataset is production-ready.
 
 All missing fields originate from the original source datasets and have been intentionally preserved for future manual or AI-assisted enrichment.
+
+## Tamil Vocabulary
+
+### Missing Transliteration
+
+Source:
+iLearnTamil - 1500 Important Words List in Tamil
+
+Source URL:
+https://ilearntamil.com/1500-important-words-list-in-tamil/
+
+Issues:
+- 1 vocabulary word does not contain a transliteration.
+
+Data Preserved:
+- English word preserved.
+- Tamil word preserved.
+- Category preserved.
+
+Resolution:
+Pending manual verification or AI-assisted transliteration generation.
+
+Priority:
+Low
+
+## Tamil Vocabulary
+
+### Missing Transliteration
+
+Source:
+iLearnTamil - 1500 Important Words List in Tamil
+
+Source URL:
+https://ilearntamil.com/1500-important-words-list-in-tamil/
+
+Issue:
+- 1 vocabulary word does not contain transliteration.
+
+Data Preserved:
+- English word available.
+- Tamil word available.
+- Category available.
+
+Resolution:
+Pending manual verification or AI-assisted transliteration generation.
+
+Priority:
+Low
